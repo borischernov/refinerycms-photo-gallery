@@ -9,7 +9,7 @@ plupload.addI18n({
 'Stop current upload' : 'Stop current upload',
 'Start uploading queue' : 'Start uploading queue',
 'Uploaded %d/%d files': 'Uploaded %d/%d files',
-'N/A' : ''N/A',
+'N/A' : 'N/A',
 'Drag files here.' : 'Drag files here.',
 'File extension error.': 'File extension error.',
 'File size error.': 'File size error.',

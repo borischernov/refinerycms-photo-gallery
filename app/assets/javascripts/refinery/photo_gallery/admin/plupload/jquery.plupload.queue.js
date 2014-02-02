@@ -94,7 +94,7 @@
                 j.bind("Init", function (l, m) {
                     b(k, i);
                     if (!e.unique_names && e.rename) {
-                        c("#" + k + "_filelist div.plupload_file_name span", i).live("click", function (s) {
+                        c("#" + k + "_filelist div.plupload_file_name span", i).delegate("", "click", function (s) {
                             var q = c(s.target), o, r, n, p = "";
                             o = l.getFile(q.parents("li")[0].id);
                             n = o.name;

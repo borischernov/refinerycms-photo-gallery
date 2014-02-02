@@ -4,7 +4,7 @@ __Photo gallery engine for Refinery CMS.__
 
 ## Requirements
 
-This version of refinerycms-photo-gallery supports Rails 3.2.x and Refinery CMS ~> 2.0.3.
+This version of refinerycms-photo-gallery supports Rails 3.2.x and Refinery CMS ~> 2.1.1.
 
 ## Features
 
